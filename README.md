@@ -65,7 +65,7 @@ It can be a bit challenging to find the correct URL for each image.
 Generally, store your embedded images in your repo if they are original, or reference the hosted location for the image if already available on the web. 
 Images look like links with an ! in front, for example, an external image can be displayed as shown below. If desired, use a title as we did with links above.
 
-![Hosted image](http://www.natemeeker.com/Lynx_kitten.jpg "Lynx Kitten")
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/0/02/Lynx_kitten.jpg "Lynx Kitten")
 
 ## Paragraphs
 
@@ -88,7 +88,7 @@ Nate Meeker
 
 S523693@nwmissouri.edu
 
-* Based on code from Denise Case
+*Based on code from Denise Case
 
 ## This is a Practice Heading 
 
@@ -96,4 +96,7 @@ S523693@nwmissouri.edu
 1. Second test on markdown list
 1. Third test on markdown list
 
+## Displaying my own image
+
+![Hosted image](https://en.wikipedia.org/wiki/Sunset#/media/File:Sunset_2007-1.jpg "sunset")
 
