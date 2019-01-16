@@ -3,8 +3,8 @@ A short README.md that explains how to get started with Markdown, a super-simple
 
 ## Links
 
-- [Webpage](https://profcase.github.io/working-with-markdown/ "Working With Markdown Webpage")
-- [Source](https://github.com/profcase/working-with-markdown "Working With Markdown Source")
+- [Webpage](https://Natem0501.github.io/working-with-markdown/ "Working With Markdown Webpage")
+- [Source](https://github.com/Natem0501/working-with-markdown "Working With Markdown Source")
 
 ## Getting Started
 
@@ -84,8 +84,16 @@ Learn more by checking out [Mastering Markdown](https://guides.github.com/featur
 
 ##  About
 
-Denise Case
+Nate Meeker
 
-dcase@nwmissouri.edu
+S523693@nwmissouri.edu
+
+*Based on code from Denise Case
+
+## This is a Practice Heading 
+
+1. First test on markdown list
+1. Second test on markdown list
+1. Third test on markdown list
 
 
