@@ -6,6 +6,10 @@ A short README.md that explains how to get started with Markdown, a super-simple
 - [Webpage](https://Natem0501.github.io/working-with-markdown/ "Working With Markdown Webpage")
 - [Source](https://github.com/Natem0501/working-with-markdown "Working With Markdown Source")
 
+## My Custom Link
+
+- [Webpage](http://www.natemeeker.com "Working With Markdown Webpage Link")
+
 ## Getting Started
 
 1. Login to GitHub.
