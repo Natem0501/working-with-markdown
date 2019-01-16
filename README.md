@@ -92,7 +92,7 @@ Nate Meeker
 
 S523693@nwmissouri.edu
 
-*Based on code from Denise Case
+* Based on code from Denise Case
 
 ## This is a Practice Heading 
 
