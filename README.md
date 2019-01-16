@@ -100,3 +100,5 @@ S523693@nwmissouri.edu
 
 ![Hosted image](https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg "sunset")
 
+- When trying to display an image using markdown like the one above, it is important to make sure the "upload" is in the URL. Without this, you will not be able to see the image or link to it. 
+
