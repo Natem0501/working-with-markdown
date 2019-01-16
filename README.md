@@ -98,5 +98,5 @@ S523693@nwmissouri.edu
 
 ## Displaying my own image
 
-![Hosted image](https://en.wikipedia.org/wiki/Sunset#/media/File:Sunset_2007-1.jpg "sunset")
+![Hosted image](https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg "sunset")
 
